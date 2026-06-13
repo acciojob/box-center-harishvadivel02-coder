@@ -14,7 +14,10 @@ body {
   width: 200px;
   height: 200px;
   background-color: lightblue;
-  border: 2px solid black;
+  border-top: 2px solid black;
+  border-right: 2px solid black;
+  border-bottom: 2px solid black;
+  border-left: 2px solid black;
   position: absolute;
   top: 50%;
   left: 50%;
